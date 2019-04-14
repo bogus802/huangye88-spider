@@ -1,4 +1,4 @@
-import random
+#代理IP 有一部分是不可用或者速度过慢，此文件主要是过滤掉不可用的IP和速度过慢的IP
 import requests
 import json
 

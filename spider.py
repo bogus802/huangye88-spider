@@ -1,3 +1,4 @@
+#爬虫主逻辑  配合User-Agent 文件使用
 import random
 import requests
 import json
